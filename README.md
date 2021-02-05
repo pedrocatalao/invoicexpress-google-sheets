@@ -3,7 +3,7 @@ Simple connector to list your invoiceXpress invoices in Google Sheets
 
 This was created a long time ago but since I had to make some changes to adapt to some deprecated API specs, I decided to publish it here on Github.
 
-Now uses the "new" API domain and the JSON endpoint (instead of XML).
+Now uses the *new* API domain and the JSON endpoint (instead of XML).
 
 # To get this working
 - Go to the menu `Tools` > `Script Editor`
