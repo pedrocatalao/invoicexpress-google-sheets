@@ -29,5 +29,5 @@ Note: it now uses the **new** API domain and the JSON endpoint (instead of XML).
   - Time: Midnight to 1am
   
 ### Other uses
-* Create some nice graph around the data
+* Create some nice graphs around the data
 * Publish the sheet to the web and share it
