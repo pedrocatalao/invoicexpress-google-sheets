@@ -9,6 +9,7 @@ Note: it now uses the **new** API domain and the JSON endpoint (instead of XML).
   ![](docs/invxpress-screenshot.png)
 
 ### To get this working
+* Open or create a new Google sheet document
 * Go to the menu `Tools` > `Script Editor`
 * Overwrite the contents of `Code.gs` (copy&paste)
 * Save the script
