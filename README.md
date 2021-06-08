@@ -12,6 +12,7 @@ Note: it now uses the *'new'* API domain and the JSON endpoint (instead of XML).
 * Open or create a new Google sheet document
 * Go to the menu `Tools` > `Script Editor`
 * Overwrite the contents of `Code.gs` (copy&paste)
+* Replace the API key and subdomain placeholders with your own
 * Save the script
 * Go back to the Google sheet document and refresh
 * Now you have an `InvoiceXpress` menu option
